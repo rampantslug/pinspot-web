@@ -1,0 +1,15 @@
+{
+  "applinks": {
+      "details": [
+           {
+             "appIDs": [ "org.reactjs.native.pinSpot" ],
+             "components": [
+               {
+                  "/": "/*",
+                  "comment": "Matches any URL to this subdomain"
+               }
+             ]
+           }
+       ]
+   }
+}
